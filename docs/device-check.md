@@ -39,6 +39,8 @@
 **Result:** [Paste command output, or write "Confirmed via System Settings"]
 
 ---
+<img width="589" height="284" alt="Screenshot 2026-02-23 111456" src="https://github.com/user-attachments/assets/c2c81141-10dc-4598-8ae4-caeedcf3da52" />
+<img width="439" height="286" alt="Screenshot 2026-02-23 112002" src="https://github.com/user-attachments/assets/cfb47e77-e013-4c84-9cfe-c98f4e2e7eab" />
 
 ## Device Notes
 
