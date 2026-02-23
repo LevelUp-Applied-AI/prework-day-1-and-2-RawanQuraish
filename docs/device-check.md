@@ -21,11 +21,11 @@
 ---
 
 ## Evidence Checklist
-- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/50412284-abb7-4221-a997-3b03b5f1f4a3" />] Screenshot: OS version
-- [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/279b93e8-fb68-42a2-bec6-625269bb7070" />] Screenshot: RAM and CPU details
-- [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/603369f5-1d36-4e04-add1-d7735f6155dd" />] Screenshot: Free disk space
-- [<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="https://github.com/user-attachments/assets/8403ead1-d61f-4c73-9020-a765f40c522b" />] Screenshot: Internet speed test result
-- [<img width="605" height="290" alt="Screenshot 2026-02-23 114446" src="https://github.com/user-attachments/assets/c58bb914-ad6b-4c5f-9e29-26ace29efa55" />] Screenshot: Admin rights confirmed
+- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="C:\Users\User\OneDrive\Imágenes\Screenshots\Screenshot 2026-02-23 113449.png" />] Screenshot: OS version
+- [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="C:\Users\User\OneDrive\Imágenes\Screenshots\Screenshot 2026-02-23 113731.png" />] Screenshot: RAM and CPU details
+- [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="C:\Users\User\OneDrive\Imágenes\Screenshots\Screenshot 2026-02-23 113908.png" />] Screenshot: Free disk space
+- [<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="C:\Users\User\OneDrive\Imágenes\Screenshots\Screenshot 2026-02-23 114207.png" />] Screenshot: Internet speed test result
+- [<img width="605" height="290" alt="C:\Users\User\OneDrive\Imágenes\Screenshots\Screenshot 2026-02-23 114446.png" />] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [] Screenshot: `wsl -l -v` output showing WSL 2
