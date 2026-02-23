@@ -21,7 +21,6 @@
 ---
 
 ## Evidence Checklist
-
 - [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/bc42b9d9-7824-4bb2-90fc-4e0dcf2dba80" />] Screenshot: OS version
 - [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/65852e09-ff1d-4415-abe1-773f767954e1" />] Screenshot: RAM and CPU details
 - [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/4b686dc1-e66e-43ef-a98b-f153342edb0c" />] Screenshot: Free disk space
