@@ -21,7 +21,7 @@
 ---
 
 ## Evidence Checklist
-- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/a9ce53c2-8fb9-4c81-aeee-1f813a769dd7" />] Screenshot: OS version
+- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/92ef7ce3-028f-44e0-b170-d177cba2ecce" />] Screenshot: OS version
 - [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/c17f8c45-fcd5-46ec-8539-911e4ef6cb98" />] Screenshot: RAM and CPU details
 - [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/79ac1ede-9cae-4b01-98e0-c3cab2747c09" />] Screenshot: Free disk space
 - [<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="https://github.com/user-attachments/assets/2b4a2044-a8ab-4bc9-afe7-4e93f49122ac" />] Screenshot: Internet speed test result
