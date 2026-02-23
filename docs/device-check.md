@@ -28,8 +28,8 @@
 - [<img width="605" height="290" alt="Screenshot 2026-02-23 114446" src="https://github.com/user-attachments/assets/c58bb914-ad6b-4c5f-9e29-26ace29efa55" />] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ <img width="1416" height="284" alt="Screenshot 2026-02-23 130650" src="https://github.com/user-attachments/assets/506739a3-525d-4cb6-9c82-8603f10e14f5" />] Screenshot: `wsl -l -v` output showing WSL 2
-- [ <img width="1449" height="147" alt="Screenshot 2026-02-23 130732" src="https://github.com/user-attachments/assets/52ee1fd8-bb3d-4c99-bffe-c4ae96fb4fe1" />] Screenshot: `wsl --status` output
+- [] Screenshot: `wsl -l -v` output showing WSL 2
+- [] Screenshot: `wsl --status` output
 
 ---
 
