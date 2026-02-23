@@ -21,11 +21,16 @@
 ---
 
 ## Evidence Checklist
-- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/a6b4a5de-2001-4b34-85f2-7597fc97d82a" />] Screenshot: OS version
-- [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/98cf1566-dcb6-4498-aab1-f38d07654894" />] Screenshot: RAM and CPU details
-- [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/4b686dc1-e66e-43ef-a98b-f153342edb0c" />] Screenshot: Free disk space
-- [<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="https://github.com/user-attachments/assets/678bf5f5-207b-445f-a9b5-e0b76af29940" />] Screenshot: Internet speed test result
-- [<img width="605" height="290" alt="Screenshot 2026-02-23 114446" src="https://github.com/user-attachments/assets/33eee2c2-98b6-4909-99eb-3aed23eb746a" />] Screenshot: Admin rights confirmed
+- [<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/50412284-abb7-4221-a997-3b03b5f1f4a3" />
+<img width="753" height="297" alt="Screenshot 2026-02-23 113449" src="https://github.com/user-attachments/assets/50412284-abb7-4221-a997-3b03b5f1f4a3" />] Screenshot: OS version
+- [<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/279b93e8-fb68-42a2-bec6-625269bb7070" />
+<img width="736" height="72" alt="Screenshot 2026-02-23 113731" src="https://github.com/user-attachments/assets/279b93e8-fb68-42a2-bec6-625269bb7070" />] Screenshot: RAM and CPU details
+- [<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/603369f5-1d36-4e04-add1-d7735f6155dd" />
+<img width="292" height="224" alt="Screenshot 2026-02-23 113908" src="https://github.com/user-attachments/assets/603369f5-1d36-4e04-add1-d7735f6155dd" />] Screenshot: Free disk space
+- [<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="https://github.com/user-attachments/assets/8403ead1-d61f-4c73-9020-a765f40c522b" />
+<img width="815" height="386" alt="Screenshot 2026-02-23 114207" src="https://github.com/user-attachments/assets/8403ead1-d61f-4c73-9020-a765f40c522b" />] Screenshot: Internet speed test result
+- [<img width="605" height="290" alt="Screenshot 2026-02-23 114446" src="https://github.com/user-attachments/assets/c58bb914-ad6b-4c5f-9e29-26ace29efa55" />
+<img width="605" height="290" alt="Screenshot 2026-02-23 114446" src="https://github.com/user-attachments/assets/c58bb914-ad6b-4c5f-9e29-26ace29efa55" />] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
