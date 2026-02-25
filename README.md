@@ -35,8 +35,8 @@ Configure the pull request:
 ## Setup
 
 ```bash
-git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
-cd <your-username>-prework
+git clone https://github.com/LevelUp-Applied-AI/<RawanQuraish>-prework.git
+cd <RawanQuraish>-prework
 
 Save the file when done.
 
